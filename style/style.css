@@ -1,0 +1,15 @@
+header, footer {
+    min-height: 200px;
+    background: linear-gradient(to right, #7400B8, #48bfe3);
+    color: white;
+    border-radius: 10px;
+}
+footer {
+    margin-top: 10px;
+    }
+.body {
+    background-color: rgba(94, 96, 206, 0.4);
+}
+label {
+    font-weight: bold;
+}
